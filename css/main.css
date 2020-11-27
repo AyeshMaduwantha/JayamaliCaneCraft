@@ -148,6 +148,7 @@ ul li {
 	letter-spacing: 3px; */
 	margin-top: -30px;
 	margin-left: -60px;
+	margin-right : 100px;
 }
 #header.fixed {
 	background-color: rgb(107, 76, 76);
